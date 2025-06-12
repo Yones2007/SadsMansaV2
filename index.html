@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>شبكة المساعد التعليمية</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Telegram Popup Modal -->
+    <div id="telegramModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <i class="fab fa-telegram-plane telegram-icon"></i>
+                <h2>انضم إلى قناة التليجرام</h2>
+                <p>للحصول على آخر التحديثات والإشعارات المهمة</p>
+            </div>
+            <div class="modal-buttons">
+                <a href="https://t.me/tteiio" target="_blank" class="btn btn-primary">
+                    <i class="fab fa-telegram-plane"></i>
+                    اشترك في القناة
+                </a>
+                <button id="confirmSubscription" class="btn btn-success">
+                    <i class="fas fa-check"></i>
+                    تأكيد الاشتراك
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>شبكة المساعد التعليمية</span>
+                </div>
+                <div class="header-controls">
+                    <button id="darkModeToggle" class="btn-icon" title="تبديل الوضع الداكن">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                    <button id="backBtn" class="btn btn-secondary" style="display: none;">
+                        <i class="fas fa-arrow-right"></i>
+                        رجوع
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Home Page -->
+            <div id="homePage" class="page active">
+                <div class="hero-section">
+                    <h1>منصة للمحاضرات الإلكترونية، الملازم، والامتحانات</h1>
+                    <p>منصة شاملة تحتوي على كل ما يحتاجه الطالب</p>
+                </div>
+
+                <div class="services-grid">
+                    <div class="service-card" onclick="navigateToPage('abwab2026')">
+                        <div class="service-icon">
+                            <i class="fas fa-play-circle"></i>
+                        </div>
+                        <h3>محاضرات أبواب 2026</h3>
+                        <p>أحدث المحاضرات للعام الدراسي 2026</p>
+                        <div class="service-badge">جديد</div>
+                    </div>
+
+                    <div class="service-card" onclick="navigateToPage('abwab2025')">
+                        <div class="service-icon">
+                            <i class="fas fa-video"></i>
+                        </div>
+                        <h3>محاضرات أبواب 2025</h3>
+                        <p>مجموعة شاملة من المحاضرات التعليمية</p>
+                    </div>
+
+                    <div class="service-card" onclick="navigateToPage('iraq2025')">
+                        <div class="service-icon">
+                            <i class="fas fa-university"></i>
+                        </div>
+                        <h3>العراق أكاديمي 2025</h3>
+                        <p>محاضرات متخصصة للمنهج العراقي</p>
+                    </div>
+
+                    <div class="service-card" onclick="navigateToPage('materials')">
+                        <div class="service-icon">
+                            <i class="fas fa-book"></i>
+                        </div>
+                        <h3>الملازم والمراجعات</h3>
+                        <p>ملازم، امتحانات وزارية، واجبات ومراجعات مركزة</p>
+                    </div>
+
+                    <div class="service-card" onclick="navigateToPage('exams')">
+                        <div class="service-icon">
+                            <i class="fas fa-clipboard-check"></i>
+                        </div>
+                        <h3>الامتحانات</h3>
+                        <p>مجموعة شاملة من الامتحانات حسب المواد</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Teachers List Page -->
+            <div id="teachersPage" class="page">
+                <div class="page-header">
+                    <h2 id="pageTitle">المدرسين</h2>
+                    <div class="progress-info">
+                        <span id="progressText">0% مكتمل</span>
+                        <div class="progress-bar">
+                            <div id="progressFill" class="progress-fill"></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="teachersList" class="teachers-grid"></div>
+            </div>
+
+            <!-- Teacher Details Page -->
+            <div id="teacherPage" class="page">
+                <div class="teacher-header">
+                    <div class="teacher-info">
+                        <img id="teacherImage" class="teacher-avatar" src="" alt="">
+                        <div class="teacher-details">
+                            <h2 id="teacherName"></h2>
+                            <p id="teacherSubject"></p>
+                        </div>
+                    </div>
+                </div>
+                <div id="classesList" class="classes-list"></div>
+            </div>
+
+            <!-- Video Player Page -->
+            <div id="videoPage" class="page">
+                <div class="video-container">
+                    <iframe id="videoPlayer" src="" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="video-info">
+                    <h3 id="videoTitle"></h3>
+                    <p id="videoDescription"></p>
+                    <button id="markCompleted" class="btn btn-success">
+                        <i class="fas fa-check"></i>
+                        تم إكمال المحاضرة
+                    </button>
+                </div>
+            </div>
+
+            <!-- Materials Page -->
+            <div id="materialsPage" class="page">
+                <div class="page-header">
+                    <h2>الملازم والمراجعات</h2>
+                </div>
+                <div class="materials-tabs">
+                    <button class="tab-btn active" data-tab="summaries">الملازم</button>
+                    <button class="tab-btn" data-tab="ministerials">الامتحانات الوزارية</button>
+                    <button class="tab-btn" data-tab="assignments">الواجبات</button>
+                    <button class="tab-btn" data-tab="focused">المراجعات المركزة</button>
+                </div>
+                <div id="materialsContent" class="materials-content"></div>
+            </div>
+
+            <!-- Exams Page -->
+            <div id="examsPage" class="page">
+                <div class="page-header">
+                    <h2>الامتحانات</h2>
+                </div>
+                <div id="examsList" class="subjects-grid"></div>
+            </div>
+
+            <!-- Subject Exams Page -->
+            <div id="subjectExamsPage" class="page">
+                <div class="page-header">
+                    <h2 id="subjectName"></h2>
+                </div>
+                <div id="chaptersExamsList" class="chapters-list"></div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Loading Spinner -->
+    <div id="loadingSpinner" class="loading-spinner">
+        <div class="spinner"></div>
+        <p>جاري التحميل...</p>
+    </div>
+
+    <!-- Scripts -->
+    <script src="dataab2026.js"></script>
+    <script src="dataab2025.js"></script>
+    <script src="dataiq2025.js"></script>
+    <script src="ma.js"></script>
+    <script src="ex.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
