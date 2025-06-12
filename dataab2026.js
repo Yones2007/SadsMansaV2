@@ -12,53 +12,74 @@ window.dataAb2026 = {
             {
               "title": "أساسيات الفيزياء",
               "description": "مقدمة أساسية في الفيزياء",
-              "url": "https://iframe.mediadelivery.net/embed/215061/7f2873a8-c450-4db3-819a-1cfc518c23f8"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/7f2873a8-c450-4db3-819a-1cfc518c23f8"
             },
             {
               "title": " أساس عمل المتسعة",
               "description": "كيف تعمل المتسعة؟",
-              "url": "https://iframe.mediadelivery.net/embed/215061/623af7df-e18e-49a5-a140-5db6238d2d0b"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/623af7df-e18e-49a5-a140-5db6238d2d0b"
             },
             {
               "title": " أشكال المتسعات",
               "description": "أنواع وأشكال المتسعات في الفيزياء",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b1e8199a-1e73-41f2-817b-195170e3fb2a"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/b1e8199a-1e73-41f2-817b-195170e3fb2a"
             },
             {
               "title": " عوازل المتسعات",
               "description": "استخدام العوازل في المتسعات",
-              "url": "https://iframe.mediadelivery.net/embed/215061/c1c1be8d-4121-43a3-98d7-e251226d320e"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/c1c1be8d-4121-43a3-98d7-e251226d320e"
             },
             {
               "title": " المتسعة بوجود العازل",
               "description": "شرح شامل للمتسعة مع العازل",
-              "url": "https://iframe.mediadelivery.net/embed/215061/b9071139-ffe3-403c-aea5-ee3b00e403eb"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/b9071139-ffe3-403c-aea5-ee3b00e403eb"
             },
             {
               "title": " قوانين المتسعة الواحدة بوجود العازل الكهربائي",
               "description": "القوانين الأساسية للمتسعة بوجود العازل",
-              "url": "https://iframe.mediadelivery.net/embed/215061/e245ad79-ba95-4afe-8b4d-1ec2fe769cd0"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/e245ad79-ba95-4afe-8b4d-1ec2fe769cd0"
             },
             {
               "title": " المتسعة الواحدة بوجود العازل الكهربائي (الجزء الثاني)",
               "description": "استكمال شرح القوانين والتطبيقات",
-              "url": "https://iframe.mediadelivery.net/embed/215061/117aec35-b995-41d3-8c1d-d24f813d3eef"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/117aec35-b995-41d3-8c1d-d24f813d3eef"
             },
             {
               "title": " المتسعة الواحدة بوجود العازل الكهربائي (الجزء الثالث)",
               "description": "استكمال الجزء الأخير من القوانين",
-              "url": "https://iframe.mediadelivery.net/embed/215061/29ff00cc-3930-4027-b6e6-08b1de32b7fe"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/29ff00cc-3930-4027-b6e6-08b1de32b7fe"
             },
             {
               "title": " المتسعة الواحدة بوجود العازل الكهربائي (الواجبات)",
               "description": "تدريبات وأسئلة للطلاب",
-              "url": "https://iframe.mediadelivery.net/embed/215061/82e1e202-452a-431a-b9d6-3a98b3cb7e0c"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/82e1e202-452a-431a-b9d6-3a98b3cb7e0c"
             },
             {
               "title": " المتسعة الواحدة بوجود العازل الكهربائي (الإثرائيات)",
               "description": "معلومات إضافية ومراجعة متقدمة",
-              "url": "https://iframe.mediadelivery.net/embed/215061/5e13260c-c8d1-4619-b726-a08375c2ebbc"
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/5e13260c-c8d1-4619-b726-a08375c2ebbc"
+            },
+            {
+              "title": "ربط التوالي والتوازي كلاميات",
+              "description": "كلاميات التوالي والتوازي",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/30656e48-8624-4306-89d4-5cf415d5383c"
+            },
+            {
+              "title": " الاسئلة المزعجة ",
+              "description": "تدريبات وأسئلة للطلاب",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/b43feaed-fd2f-488e-a6d5-45958d7af870"
+            },
+            {
+              "title": "مسائل ربط التوالي والتوازي",
+              "description": "مسائل",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/c812d218-8640-47b5-b383-a7ecf3638aeb"
+            },
+            {
+              "title": "مسائل ربط التوالي والتوازي",
+              "description": "الجزء 2",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/79c20fa4-2c9b-4a03-b0dc-43fef6a31ca7"
             }
+
           ]
         }
       ]
@@ -75,62 +96,82 @@ window.dataAb2026 = {
         {
           "title": "المحاضرة التعريفية",
           "description": "مقدمة للمادة وأهميتها",
-          "url": "https://iframe.mediadelivery.net/embed/215061/53e98122-e177-4b9b-a06c-525b9da6d895"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/53e98122-e177-4b9b-a06c-525b9da6d895"
         },
         {
           "title": " المحاضرة الأولى (مقدمة عن الأعداد المركبة)",
           "description": "تعريف الأعداد المركبة وأهم خصائصها",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cd2d15a6-156b-420e-9f31-4efbdfb85ba3"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/cd2d15a6-156b-420e-9f31-4efbdfb85ba3"
         },
         {
           "title": " المحاضرة الثانية (أسس الأعداد المركبة)",
           "description": "مقدمة في الأسس المستخدمة في الحسابات المركبة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/27af24cb-6ef1-4f16-9d74-320dc8915bf9"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/27af24cb-6ef1-4f16-9d74-320dc8915bf9"
         },
         {
           "title": " المحاضرة الثالثة (العدد المركب)",
           "description": "شرح تفصيلي للعدد المركب وصيغته",
-          "url": "https://iframe.mediadelivery.net/embed/215061/73a0ef12-89ba-482a-88e3-e8bbe90d40f7"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/73a0ef12-89ba-482a-88e3-e8bbe90d40f7"
         },
         {
           "title": " المحاضرة الرابعة (ضرب الأعداد المركبة)",
           "description": "طريقة ضرب عددين مركبين وتبسيط الناتج",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5d58ba54-c960-4fae-b0e6-a92561185627"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/5d58ba54-c960-4fae-b0e6-a92561185627"
         },
         {
           "title": " المحاضرة الخامسة (مرافق العدد المركب)",
           "description": "استخدام المرافق في تبسيط الكسر المركب",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fc69f7eb-d36b-4946-b027-d85a041229a8"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/fc69f7eb-d36b-4946-b027-d85a041229a8"
         },
         {
           "title": " المحاضرة السادسة (تبسيط العدد المركب)",
           "description": "طرق تبسيط الأعداد المركبة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ee5dbccd-ec8d-41c2-ba0c-366d78d3cb16"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/ee5dbccd-ec8d-41c2-ba0c-366d78d3cb16"
         },
         {
           "title": " المحاضرة السابعة (تبسيط العدد المركب الجزء الثاني)",
           "description": "استمرار في تبسيط الأعداد المركبة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/18b7dd60-0da0-4d4a-9285-e4f81bf41eea"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/18b7dd60-0da0-4d4a-9285-e4f81bf41eea"
         },
         {
           "title": " المحاضرة الثامنة (إيجاد الثوابت X,Y)",
           "description": "طرق إيجاد الثوابت داخل المعادلات المركبة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/094997e9-f9da-4457-80f0-b6e0094ebef5"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/094997e9-f9da-4457-80f0-b6e0094ebef5"
         },
         {
           "title": " المحاضرة التاسعة (وزاريات إيجاد الثوابت X,Y)",
           "description": "أمثلة وزارية مهمة على الثوابت",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b3e837b9-084f-4008-b92f-8ee2cef84c82"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/b3e837b9-084f-4008-b92f-8ee2cef84c82"
         },
         {
           "title": " المحاضرة العاشرة (وزاريات إيجاد الثوابت X,Y - الجزء الثاني)",
           "description": "متابعة مسائل الوزاري المتقدمة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d3b79625-a579-4ddb-a6f4-5ea410866f31"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/d3b79625-a579-4ddb-a6f4-5ea410866f31"
         },
         {
           "title": " المحاضرة الحادية عشر (وزاريات إيجاد الثوابت X,Y - الجزء الثالث)",
           "description": "الجزء الأخير من الوزاريات مع شرح تفصيلي",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ccdfa255-cd65-4ff2-89f5-057069c92456"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/ccdfa255-cd65-4ff2-89f5-057069c92456"
+        },
+        {
+              "title": " المحاضرة الثاني عشر (تحليل الفرق بين مربعين)",
+              "description": "",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/da00e5bf-6adf-4f51-8a21-7f949ea95482"
+        },
+        {
+              "title": "المحاضرة الثالثة عشر (الجذور التربيعية للعدد المركب)",
+              "description": "",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/cc610415-6fd5-4462-bc57-e3aa600c3161"
+        },
+        {
+              "title": "المحاضرة الرابعة عشر (الجذور التربيعية للعدد المركب (النوع الثالث)",
+              "description": "",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/f6690928-fda3-4e4a-85a1-44c42f5cfdc1"
+        },
+        {
+              "title": " المحاضرة الخامسة عشر (حل المعادلة من الدرجة الثانية)",
+              "description": "",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/ca2d0c98-6712-4727-a74a-5f4f492f1bad"
             }
           ]
         }
@@ -148,27 +189,27 @@ window.dataAb2026 = {
         {
           "title": " في اللغة الانجليزية (ed) إضافة",
           "description": "شرح استخدام ed مع الأفعال والأسماء",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fae0d70a-e4c7-46e0-a046-e8b52436e9fa"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/fae0d70a-e4c7-46e0-a046-e8b52436e9fa"
         },
         {
           "title": " في اللغة الانجليزية (ing) إضافة",
           "description": "استخدام ing ودلالاته",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1138f878-d8fa-4ed2-8228-f4c237b53d16"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/1138f878-d8fa-4ed2-8228-f4c237b53d16"
         },
         {
           "title": " الجمع في اللغة الانجليزية (s) إضافة",
           "description": "شرح قواعد الجمع واستخدام s",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5cb01382-c193-420f-a418-e6b10e0959d2"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/5cb01382-c193-420f-a418-e6b10e0959d2"
         },
         {
           "title": " (ed, ing) الصفات المنتهية ب",
           "description": "شرح الفرق بين الصفات المنتهية بـ ed و ing",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4473a98c-71c0-4586-aa98-ed529584f9b3"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/4473a98c-71c0-4586-aa98-ed529584f9b3"
         },
         {
           "title": " (ful, fully) الكلمات المنتهية ب",
           "description": "شرح استخدام ful و fully في تكوين الصفات",
-          "url": "https://iframe.mediadelivery.net/embed/215061/551c769b-a25b-4706-a689-82a1b77bd06e"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/551c769b-a25b-4706-a689-82a1b77bd06e"
         }
       ]
     },
@@ -178,12 +219,22 @@ window.dataAb2026 = {
         {
           "title": " أدوات الربط",
           "description": "شرح أدوات الربط في اللغة الإنجليزية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cce812a8-9008-44cf-a16e-00d7d82235a2"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/cce812a8-9008-44cf-a16e-00d7d82235a2"
         },
         {
           "title": " اعلانات السجائر يجب أن تكون غير قانونية",
           "description": "موضوع كتابي تطبيقي لليونت الأول",
-          "url": "https://iframe.mediadelivery.net/embed/215061/3954a176-e22e-477a-be35-f5c65c0d1d16"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/3954a176-e22e-477a-be35-f5c65c0d1d16"
+        },
+        {
+              "title": " اصبع قدمي ينزف ",
+              "description": "بدون تسخيت وكملها",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/603fabc7-aa58-478e-8759-99937ba45b13"
+        },
+           {
+              "title": "اصبع قدمي الجزء الثاني",
+              "description": "",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/03d0562c-15b7-4946-b7aa-bae0042cc94e"
             }
           ]
         }
@@ -201,12 +252,12 @@ window.dataAb2026 = {
         {
           "title": " أساسيات الكيمياء",
           "description": "مقدمة في المادة والبنية الكيميائية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/092c23a8-0cbe-44a6-a4b4-cefb20910478"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/092c23a8-0cbe-44a6-a4b4-cefb20910478"
         },
         {
           "title": " أساسيات الرياضيات",
           "description": "قواعد الرياضيات الداعمة للكيمياء",
-          "url": "https://iframe.mediadelivery.net/embed/215061/916fe1c7-c230-4495-b525-c8a5bf9fbb41"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/916fe1c7-c230-4495-b525-c8a5bf9fbb41"
         }
       ]
     },
@@ -216,52 +267,52 @@ window.dataAb2026 = {
         {
           "title": " الدرس الأول",
           "description": "مقدمة في الديناميكا الحرارية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a5450272-34bf-47cd-8e63-4fbcbdd180f5"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/a5450272-34bf-47cd-8e63-4fbcbdd180f5"
         },
         {
           "title": " الدرس الثاني",
           "description": "القوانين الأساسية للديناميكا",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6869ca33-4b1b-4bfd-9082-37096ed81aa7"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/6869ca33-4b1b-4bfd-9082-37096ed81aa7"
         },
         {
           "title": " الدرس الثالث",
           "description": "التطبيقات على القانون الأول",
-          "url": "https://iframe.mediadelivery.net/embed/215061/62027efe-1168-400f-b70c-5d15fdf75f70"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/62027efe-1168-400f-b70c-5d15fdf75f70"
         },
         {
           "title": " الدرس الرابع",
           "description": "المسائل الشائعة وحلولها",
-          "url": "https://iframe.mediadelivery.net/embed/215061/fd9d7806-6e19-4aae-8039-182568c41dc5"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/fd9d7806-6e19-4aae-8039-182568c41dc5"
         },
         {
           "title": " الدرس الخامس",
           "description": "القانون الثاني للديناميكا",
-          "url": "https://iframe.mediadelivery.net/embed/215061/9304a327-2543-40b6-8edf-8772431b583a"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/9304a327-2543-40b6-8edf-8772431b583a"
         },
         {
           "title": " الدرس السادس",
           "description": "ادرس ولا تسخت رجاءً ياحلو",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0bcec746-94f4-4361-9ce2-265e64672493"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/0bcec746-94f4-4361-9ce2-265e64672493"
         },
         {
           "title": " الدرس السابع",
           "description": "مفاهيم متقدمة حول الطاقة الداخلية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d2711074-80bf-4670-ba69-dce58b289c82"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/d2711074-80bf-4670-ba69-dce58b289c82"
         },
         {
           "title": " الدرس الثامن",
           "description": "شرح المتغيرات الديناميكية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f4622f4d-2cf4-40ae-96e2-954bcbdfb242"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/f4622f4d-2cf4-40ae-96e2-954bcbdfb242"
         },
         {
           "title": " الدرس التاسع",
           "description": "الحرارة النوعية وتمارين تطبيقية",
-          "url": "https://iframe.mediadelivery.net/embed/215061/1b47ad43-8b7f-419e-9e7e-5245fb2de6da"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/1b47ad43-8b7f-419e-9e7e-5245fb2de6da"
         },
         {
           "title": " الدرس العاشر",
           "description": "الأسئلة الوزارية وتحليلها",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b616633f-7255-4e29-aa6d-f0186e2bbd3b"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/b616633f-7255-4e29-aa6d-f0186e2bbd3b"
             }
           ]
         }
@@ -279,22 +330,22 @@ window.dataAb2026 = {
         {
           "title": " أساسيات الفيزياء",
           "description": "مقدمة عامة للمادة وأهم المبادئ",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7f2873a8-c450-4db3-819a-1cfc518c23f8"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/7f2873a8-c450-4db3-819a-1cfc518c23f8"
         },
         {
           "title": " اساسيات الفيزياء (الجزء الثاني)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0290b143-5dae-4ad3-9af2-6af5b33da003"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/0290b143-5dae-4ad3-9af2-6af5b33da003"
         },
         {
           "title": " أساسيات الفيزياء (الجزء الثالث)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/156d9561-0cdf-45c4-85ca-118f490ec6f9"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/156d9561-0cdf-45c4-85ca-118f490ec6f9"
         },
         {
           "title": " الموصل الكروي",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/cb0aaac5-1614-4c41-a2b8-50d7463c9a68"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/cb0aaac5-1614-4c41-a2b8-50d7463c9a68"
         }
       ]
     },
@@ -304,72 +355,72 @@ window.dataAb2026 = {
         {
           "title": " المتسعة وسعة المتسعة",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7"
         },
         {
           "title": " المتسعة وسعة المتسعة (الجزء الثاني)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2b0c371f-0038-4d0e-a6c1-4f8ad98ebe96"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/2b0c371f-0038-4d0e-a6c1-4f8ad98ebe96"
         },
         {
           "title": " العازل الكهربائي",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e2b3b8e7-e2a4-4029-8c03-f9db48b17431"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/e2b3b8e7-e2a4-4029-8c03-f9db48b17431"
         },
         {
           "title": " قوة العزل الكهربائي",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/15f473a2-6f45-447a-9771-43059321c296"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/15f473a2-6f45-447a-9771-43059321c296"
         },
         {
           "title": " أساس عمل المتسعة",
           "description": "شرح كيفية تخزين الشحنة داخل المتسعة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/623af7df-e18e-49a5-a140-5db6238d2d0b"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/623af7df-e18e-49a5-a140-5db6238d2d0b"
         },
         {
           "title": " أشكال المتسعات",
           "description": "أشكال وأنواع المتسعات الشائعة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b1e8199a-1e73-41f2-817b-195170e3fb2a"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/b1e8199a-1e73-41f2-817b-195170e3fb2a"
         },
         {
           "title": " عوازل المتسعات",
           "description": "أهمية المواد العازلة وتأثيرها",
-          "url": "https://iframe.mediadelivery.net/embed/215061/c1c1be8d-4121-43a3-98d7-e251226d320e"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/c1c1be8d-4121-43a3-98d7-e251226d320e"
         },
         {
           "title": " المتسعة بوجود العازل",
           "description": "تأثير العازل على السعة والطاقة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/b9071139-ffe3-403c-aea5-ee3b00e403eb"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/b9071139-ffe3-403c-aea5-ee3b00e403eb"
         },
         {
           "title": " قوانين المتسعة الواحدة بوجود العازل الكهربائي",
           "description": "قوانين السعة والطاقة في وجود العازل",
-          "url": "https://iframe.mediadelivery.net/embed/215061/e245ad79-ba95-4afe-8b4d-1ec2fe769cd0"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/e245ad79-ba95-4afe-8b4d-1ec2fe769cd0"
         },
         {
           "title": " المتسعة الواحدة بوجود العازل الكهربائي (الجزء الثاني)",
           "description": "تكملة الشرح السابق مع تطبيقات",
-          "url": "https://iframe.mediadelivery.net/embed/215061/117aec35-b995-41d3-8c1d-d24f813d3eef"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/117aec35-b995-41d3-8c1d-d24f813d3eef"
         },
         {
           "title": " المتسعة الواحدة بوجود العازل الكهربائي (الجزء الثالث)",
           "description": "الجزء النهائي في القوانين والتطبيقات",
-          "url": "https://iframe.mediadelivery.net/embed/215061/29ff00cc-3930-4027-b6e6-08b1de32b7fe"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/29ff00cc-3930-4027-b6e6-08b1de32b7fe"
         },
         {
           "title": " المتسعة الواحدة بوجود العازل الكهربائي (الواجبات)",
           "description": "واجبات وتدريبات على الدرس",
-          "url": "https://iframe.mediadelivery.net/embed/215061/82e1e202-452a-431a-b9d6-3a98b3cb7e0c"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/82e1e202-452a-431a-b9d6-3a98b3cb7e0c"
         },
         {
           "title": " المتسعة الواحدة بوجود العازل الكهربائي (الإثرائيات)",
           "description": "أمثلة إثرائية لتعميق الفهم",
-          "url": "https://iframe.mediadelivery.net/embed/215061/5e13260c-c8d1-4619-b726-a08375c2ebbc"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/5e13260c-c8d1-4619-b726-a08375c2ebbc"
         },
         {
           "title": " ربط التوالي والتوازي (كلاميات)",
           "description": "شرح نظري لطرق الربط بين المتسعات",
-          "url": "https://iframe.mediadelivery.net/embed/215061/30656e48-8624-4306-89d4-5cf415d5383c"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/30656e48-8624-4306-89d4-5cf415d5383c"
             }
           ]
         }
@@ -387,47 +438,47 @@ window.dataAb2026 = {
         {
           "title": "محاضرة تعريفية",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/7550c67d-6ba9-450d-8bed-c7fc19b6b69b"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/7550c67d-6ba9-450d-8bed-c7fc19b6b69b"
         },
         {
           "title": "مخطط المحاضرة الأولى",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d97a2215-e814-4de9-81eb-89a223aab559"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/d97a2215-e814-4de9-81eb-89a223aab559"
         },
         {
           "title": "المحاضرة الأولى",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/57d3660a-f5a9-4083-84c8-3bdc1fcebc55"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/57d3660a-f5a9-4083-84c8-3bdc1fcebc55"
         },
         {
           "title": "مخطط المحاضرة الثانية",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/dabf8581-5b43-4253-8b00-393a9c2e5e23"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/dabf8581-5b43-4253-8b00-393a9c2e5e23"
         },
         {
           "title": "شرح المحاضرة الثانية",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/aee74655-0c7d-4333-8d3c-3e743a955537"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/aee74655-0c7d-4333-8d3c-3e743a955537"
         },
         {
           "title": "مخطط المحاضرة الثالثة",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8f2d121b-d686-40cf-be23-f3e8a371cbae"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/8f2d121b-d686-40cf-be23-f3e8a371cbae"
         },
         {
           "title": "شرح المحاضرة الثالثة",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/8c95e867-241d-47b1-ac11-52e5d80947b8"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/8c95e867-241d-47b1-ac11-52e5d80947b8"
         },
         {
           "title": "مخطط المحاضرة الرابعة",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/52fb6ea2-7561-4305-bb8f-6df7a12c04cb"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/52fb6ea2-7561-4305-bb8f-6df7a12c04cb"
         },
         {
           "title": "شرح المحاضرة الرابعة",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/36d002b5-d2ca-4a39-8475-dd41dc01b1c0"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/36d002b5-d2ca-4a39-8475-dd41dc01b1c0"
         }
       ]
     },
@@ -437,7 +488,7 @@ window.dataAb2026 = {
         {
           "title": "محاضرة تعريفية عن أسلوب الاستفهام",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/905f1510-b8a7-4ebe-89af-77dec8ab5049"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/905f1510-b8a7-4ebe-89af-77dec8ab5049"
         }
       ]
     },
@@ -447,42 +498,42 @@ window.dataAb2026 = {
         {
           "title": "محاضرة تعريفية",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/69825c11-7c85-46af-9c01-1ebc227405d3"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/69825c11-7c85-46af-9c01-1ebc227405d3"
         },
         {
           "title": "المحاضرة الأولى (ج١)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bf44a418-ccc3-4bd0-b0b9-b4a27838a9df"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/bf44a418-ccc3-4bd0-b0b9-b4a27838a9df"
         },
         {
           "title": "المحاضرة الأولى (ج٢)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/ef4f08f1-b1f4-4ff6-89e5-ea9cab85f378"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/ef4f08f1-b1f4-4ff6-89e5-ea9cab85f378"
         },
         {
           "title": "المحاضرة الثانية (ج١)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a671a241-4e31-4efe-98e0-212f0c842186"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/a671a241-4e31-4efe-98e0-212f0c842186"
         },
         {
           "title": "المحاضرة الثانية (ج٢)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f69bc0e6-2c20-449e-84f0-524c2848aebe"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/f69bc0e6-2c20-449e-84f0-524c2848aebe"
         },
         {
           "title": "المحاضرة الثانية (ج٣)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a06dbfc0-a57f-4d88-8c09-9182fe1d0fb0"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/a06dbfc0-a57f-4d88-8c09-9182fe1d0fb0"
         },
         {
           "title": "المحاضرة الثالثة (ج١)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/720d9010-4ece-476f-91cf-a418bf9e693f"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/720d9010-4ece-476f-91cf-a418bf9e693f"
         },
         {
           "title": "المحاضرة الثالثة (ج٢)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/bdaf3fbf-18a2-44b3-8c28-29c6d015d794"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/bdaf3fbf-18a2-44b3-8c28-29c6d015d794"
             }
           ]
         }
@@ -507,32 +558,32 @@ window.dataAb2026 = {
         {
           "title": "أساسيات اللغة العربية (الجزء الأول)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2414378d-0a9b-4de1-88d2-7279dacac70b"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/2414378d-0a9b-4de1-88d2-7279dacac70b"
         },
         {
           "title": "أساسيات اللغة العربية (الجزء الثاني)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/2eec9771-a153-4fec-ad1c-73536702b9df"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/2eec9771-a153-4fec-ad1c-73536702b9df"
         },
         {
           "title": "أساسيات اللغة العربية (الجزء الثالث)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/02923885-9386-4ac3-bc44-fbf527407006"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/02923885-9386-4ac3-bc44-fbf527407006"
         },
         {
           "title": "امتحان الأساسيات التفاعلي (الجزء الاول)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/59e2edde-97ec-4f01-9143-c26f42642321"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/59e2edde-97ec-4f01-9143-c26f42642321"
         },
         {
           "title": "أساسيات اللغة العربية (الجزء الرابع)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/03c0c583-26db-48c2-9ef6-5a353471fe54"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/03c0c583-26db-48c2-9ef6-5a353471fe54"
         },
         {
           "title": "أساسيات اللغة العربية (الجزء الخامس)",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/66660390-3cac-4582-bf2b-90eb62719a03"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/66660390-3cac-4582-bf2b-90eb62719a03"
         }
       ]
     },
@@ -542,22 +593,22 @@ window.dataAb2026 = {
         {
           "title": "اسلوب الاستفهام تعريفه وأنواعه و الاستفهام التصديقي",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/81bbefa8-4140-4813-a7ad-4cde88757689"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/81bbefa8-4140-4813-a7ad-4cde88757689"
         },
         {
           "title": "الاستفهام التصوري",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/6757a3de-75d2-4d8d-8aea-d1b4b6d886d0"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/6757a3de-75d2-4d8d-8aea-d1b4b6d886d0"
         },
         {
           "title": "همزة التسوية وأنواع أم",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d02d4f2c-34f8-4e43-80af-57d13be84b75"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/d02d4f2c-34f8-4e43-80af-57d13be84b75"
         },
         {
           "title": "تحويل الاستفهام من نوع لآخر",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/a1462667-ef76-4f81-8804-d0452ed746f1"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/a1462667-ef76-4f81-8804-d0452ed746f1"
             }
           ]
         }
@@ -611,12 +662,12 @@ window.dataAb2026 = {
         {
           "title": "محاضرة تعريفية",
           "description": "وصف المحاضرة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/caadbdff-8861-4ac2-9bff-083dfe171752"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/caadbdff-8861-4ac2-9bff-083dfe171752"
         },
         {
           "title": "تقسيمات منهج الاحياء",
           "description": "وصف المحاضرة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/d2873133-0933-402f-86bf-17125efbdf3b"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/d2873133-0933-402f-86bf-17125efbdf3b"
         }
       ]
     },
@@ -626,37 +677,37 @@ window.dataAb2026 = {
         {
           "title": "محاضرة 1",
           "description": "وصف المحاضرة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4a8313b5-f032-4868-bb91-df3202078817"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/4a8313b5-f032-4868-bb91-df3202078817"
         },
         {
           "title": "محاضرة 2",
           "description": "وصف المحاضرة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/0b33b9e6-0263-4d8f-b536-f757cc81b28d"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/0b33b9e6-0263-4d8f-b536-f757cc81b28d"
         },
         {
           "title": "محاضرة 3",
           "description": "وصف المحاضرة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/f70fc1b9-3f9f-4969-8148-fb5f3c17d23d"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/f70fc1b9-3f9f-4969-8148-fb5f3c17d23d"
         },
         {
           "title": "محاضرة 4",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/4b2e558d-4af8-4a5d-8b3f-079f6d2d80cd"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/4b2e558d-4af8-4a5d-8b3f-079f6d2d80cd"
         },
         {
           "title": "محاضرة 5",
           "description": "وصف المحاضرة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/948050ca-80ff-4ca8-810f-6be415e07535"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/948050ca-80ff-4ca8-810f-6be415e07535"
         },
         {
           "title": "محاضرة 6",
           "description": "وصف المحاضرة",
-          "url": "https://iframe.mediadelivery.net/embed/215061/063095f6-8ba8-4b01-bf50-fc9f41aa20f9"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/063095f6-8ba8-4b01-bf50-fc9f41aa20f9"
         },
         {
           "title": "محاضرة 7",
           "description": "",
-          "url": "https://iframe.mediadelivery.net/embed/215061/24fd982b-eb63-480e-bf83-9a77a4fcdb86"
+          "url": "https://vz-99e5c202-ca5.b-cdn.net/24fd982b-eb63-480e-bf83-9a77a4fcdb86"
             }
           ]
         }
