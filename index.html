@@ -16,15 +16,16 @@
                 <i class="fab fa-telegram-plane telegram-icon"></i>
                 <h2>انضم إلى قناة التليجرام</h2>
                 <p>للحصول على آخر التحديثات والإشعارات المهمة</p>
+                <p style="font-size: 0.9rem; color: var(--text-muted);">يمكنك الاشتراك الآن أو لاحقاً</p>
             </div>
             <div class="modal-buttons">
                 <a href="https://t.me/tteiio" target="_blank" class="btn btn-primary">
                     <i class="fab fa-telegram-plane"></i>
                     اشترك في القناة
                 </a>
-                <button id="confirmSubscription" class="btn btn-success">
-                    <i class="fas fa-check"></i>
-                    تأكيد الاشتراك
+                <button id="confirmSubscription" class="btn btn-outline">
+                    <i class="fas fa-clock"></i>
+                    لا أريد الاشتراك الآن
                 </button>
             </div>
         </div>
@@ -39,9 +40,33 @@
                     <span>شبكة المساعد التعليمية</span>
                 </div>
                 <div class="header-controls">
-                    <button id="darkModeToggle" class="btn-icon" title="تبديل الوضع الداكن">
-                        <i class="fas fa-moon"></i>
-                    </button>
+                    <div class="theme-selector">
+                        <button id="themeToggle" class="theme-toggle" title="تغيير الثيم">
+                            <i class="fas fa-palette"></i>
+                        </button>
+                        <div id="themeDropdown" class="theme-dropdown">
+                            <button class="theme-option active" data-theme="default">
+                                <div class="theme-color default"></div>
+                                <span>الثيم الافتراضي</span>
+                            </button>
+                            <button class="theme-option" data-theme="dark">
+                                <div class="theme-color dark"></div>
+                                <span>الوضع الداكن</span>
+                            </button>
+                            <button class="theme-option" data-theme="pink">
+                                <div class="theme-color pink"></div>
+                                <span>الثيم الوردي</span>
+                            </button>
+                            <button class="theme-option" data-theme="purple">
+                                <div class="theme-color purple"></div>
+                                <span>الثيم البنفسجي</span>
+                            </button>
+                            <button class="theme-option" data-theme="green">
+                                <div class="theme-color green"></div>
+                                <span>الثيم الأخضر</span>
+                            </button>
+                        </div>
+                    </div>
                     <button id="backBtn" class="btn btn-secondary" style="display: none;">
                         <i class="fas fa-arrow-right"></i>
                         رجوع

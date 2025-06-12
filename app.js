@@ -74,7 +74,7 @@ const AppState = {
     currentLecture: null,
     currentSubject: null,
     progress: JSON.parse(localStorage.getItem('courseProgress') || '{}'),
-    darkMode: localStorage.getItem('darkMode') === 'true',
+    currentTheme: localStorage.getItem('currentTheme') || 'default',
     telegramModalShown: localStorage.getItem('telegramModalShown') === 'true'
 };
 
@@ -85,14 +85,28 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function initializeApp() {
     setupEventListeners();
-    setupDarkMode();
+    setupTheme();
     showTelegramModal();
     loadHomePage();
 }
 
 function setupEventListeners() {
-    // Dark mode toggle
-    document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
+    // Theme toggle
+    document.getElementById('themeToggle').addEventListener('click', toggleThemeDropdown);
+    
+    // Theme options
+    document.querySelectorAll('.theme-option').forEach(option => {
+        option.addEventListener('click', function() {
+            changeTheme(this.dataset.theme);
+        });
+    });
+    
+    // Close theme dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.theme-selector')) {
+            document.getElementById('themeDropdown').classList.remove('active');
+        }
+    });
     
     // Back button
     document.getElementById('backBtn').addEventListener('click', goBack);
@@ -111,24 +125,51 @@ function setupEventListeners() {
     });
 }
 
-function setupDarkMode() {
-    if (AppState.darkMode) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        document.getElementById('darkModeToggle').innerHTML = '<i class="fas fa-sun"></i>';
+function setupTheme() {
+    applyTheme(AppState.currentTheme);
+    updateThemeSelector(AppState.currentTheme);
+}
+
+function toggleThemeDropdown() {
+    const dropdown = document.getElementById('themeDropdown');
+    dropdown.classList.toggle('active');
+}
+
+function changeTheme(theme) {
+    AppState.currentTheme = theme;
+    localStorage.setItem('currentTheme', theme);
+    applyTheme(theme);
+    updateThemeSelector(theme);
+    document.getElementById('themeDropdown').classList.remove('active');
+    showNotification(`تم تغيير الثيم إلى ${getThemeName(theme)}`, 'success');
+}
+
+function applyTheme(theme) {
+    if (theme === 'default') {
+        document.documentElement.removeAttribute('data-theme');
+    } else {
+        document.documentElement.setAttribute('data-theme', theme);
     }
 }
 
-function toggleDarkMode() {
-    AppState.darkMode = !AppState.darkMode;
-    localStorage.setItem('darkMode', AppState.darkMode);
-    
-    if (AppState.darkMode) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        document.getElementById('darkModeToggle').innerHTML = '<i class="fas fa-sun"></i>';
-    } else {
-        document.documentElement.removeAttribute('data-theme');
-        document.getElementById('darkModeToggle').innerHTML = '<i class="fas fa-moon"></i>';
-    }
+function updateThemeSelector(theme) {
+    document.querySelectorAll('.theme-option').forEach(option => {
+        option.classList.remove('active');
+        if (option.dataset.theme === theme) {
+            option.classList.add('active');
+        }
+    });
+}
+
+function getThemeName(theme) {
+    const names = {
+        'default': 'الافتراضي',
+        'dark': 'الداكن',
+        'pink': 'الوردي',
+        'purple': 'البنفسجي',
+        'green': 'الأخضر'
+    };
+    return names[theme] || 'الافتراضي';
 }
 
 // Navigation Functions
@@ -626,6 +667,7 @@ function showNotification(message, type = 'info') {
                 gap: 0.5rem;
                 z-index: 1001;
                 animation: slideInRight 0.3s ease;
+                border: 1px solid var(--border-color);
             }
             .notification-success {
                 border-left: 4px solid var(--success-color);
@@ -670,6 +712,7 @@ function closeTelegramModal() {
     document.getElementById('telegramModal').style.display = 'none';
     AppState.telegramModalShown = true;
     localStorage.setItem('telegramModalShown', 'true');
+    showNotification('يمكنك الاشتراك في القناة في أي وقت لاحق', 'info');
 }
 
 // Performance optimizations
