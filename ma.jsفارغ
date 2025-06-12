@@ -1,0 +1,164 @@
+window.materialsData = {
+  "summaries": [
+    {
+      "id": 1746651021377,
+      "title": "ملخص الفيزياء للصف السادس العلمي",
+      "subject": "الفيزياء",
+      "image": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021378,
+      "title": "ملخص الكيمياء للصف السادس العلمي",
+      "subject": "الكيمياء",
+      "image": "https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021379,
+      "title": "ملخص الأحياء للصف السادس العلمي",
+      "subject": "الأحياء",
+      "image": "https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021380,
+      "title": "ملخص الرياضيات للصف السادس العلمي",
+      "subject": "الرياضيات",
+      "image": "https://images.pexels.com/photos/8364026/pexels-photo-8364026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021381,
+      "title": "ملخص اللغة العربية للصف السادس الأدبي",
+      "subject": "اللغة العربية",
+      "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021382,
+      "title": "ملخص التاريخ للصف السادس الأدبي",
+      "subject": "التاريخ",
+      "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    }
+  ],
+  "ministerials": [
+    {
+      "id": 1746651021383,
+      "title": "أسئلة وزارية للفيزياء 2024",
+      "subject": "الفيزياء",
+      "image": "https://images.pexels.com/photos/8364146/pexels-photo-8364146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021384,
+      "title": "أسئلة وزارية للكيمياء 2024",
+      "subject": "الكيمياء",
+      "image": "https://images.pexels.com/photos/8364151/pexels-photo-8364151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021385,
+      "title": "أسئلة وزارية للأحياء 2024",
+      "subject": "الأحياء",
+      "image": "https://images.pexels.com/photos/8364170/pexels-photo-8364170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021386,
+      "title": "أسئلة وزارية للرياضيات 2024",
+      "subject": "الرياضيات",
+      "image": "https://images.pexels.com/photos/8364175/pexels-photo-8364175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021387,
+      "title": "أسئلة وزارية للغة العربية 2024",
+      "subject": "اللغة العربية",
+      "image": "https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1746651021388,
+      "title": "واجب الفيزياء - الأسبوع الأول",
+      "subject": "الفيزياء",
+      "image": "https://images.pexels.com/photos/8364154/pexels-photo-8364154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021389,
+      "title": "واجب الكيمياء - الأسبوع الأول",
+      "subject": "الكيمياء",
+      "image": "https://images.pexels.com/photos/8364165/pexels-photo-8364165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021390,
+      "title": "واجب الأحياء - الأسبوع الأول",
+      "subject": "الأحياء",
+      "image": "https://images.pexels.com/photos/8364168/pexels-photo-8364168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021391,
+      "title": "واجب الرياضيات - الأسبوع الأول",
+      "subject": "الرياضيات",
+      "image": "https://images.pexels.com/photos/8364172/pexels-photo-8364172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021392,
+      "title": "واجب اللغة العربية - الأسبوع الأول",
+      "subject": "اللغة العربية",
+      "image": "https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    }
+  ],
+  "focused": [
+    {
+      "id": 1746651021393,
+      "title": "المراجعة المركزة للفيزياء",
+      "subject": "الفيزياء",
+      "image": "https://images.pexels.com/photos/8364182/pexels-photo-8364182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021394,
+      "title": "المراجعة المركزة للكيمياء",
+      "subject": "الكيمياء",
+      "image": "https://images.pexels.com/photos/8364187/pexels-photo-8364187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021395,
+      "title": "المراجعة المركزة للأحياء",
+      "subject": "الأحياء",
+      "image": "https://images.pexels.com/photos/8364190/pexels-photo-8364190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021396,
+      "title": "المراجعة المركزة للرياضيات",
+      "subject": "الرياضيات",
+      "image": "https://images.pexels.com/photos/8364193/pexels-photo-8364193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021397,
+      "title": "المراجعة المركزة للغة العربية",
+      "subject": "اللغة العربية",
+      "image": "https://images.pexels.com/photos/256559/pexels-photo-256559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    },
+    {
+      "id": 1746651021398,
+      "title": "المراجعة المركزة للتاريخ",
+      "subject": "التاريخ",
+      "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "downloadUrl": "https://t.me/tteiio"
+    }
+  ]
+};
