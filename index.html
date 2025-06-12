@@ -22,7 +22,7 @@
                     <i class="fab fa-telegram-plane"></i>
                     اشترك في القناة
                 </a>
-                <button id="confirmSubscription" class="btn btn-success" onclick="confirmSubscription()">
+                <button id="confirmSubscription" class="btn btn-success">
                     <i class="fas fa-check"></i>
                     تأكيد الاشتراك
                 </button>
@@ -192,43 +192,6 @@
     <script src="dataiq2025.js"></script>
     <script src="ma.js"></script>
     <script src="ex.js"></script>
-    <script>
-        // Telegram Modal Functionality
-        function showTelegramModal() {
-            const modal = document.getElementById('telegramModal');
-            modal.style.display = 'block';
-            
-            // Check if user has already confirmed
-            if(localStorage.getItem('telegramSubscriptionConfirmed')) {
-                modal.style.display = 'none';
-            }
-        }
-
-        function confirmSubscription() {
-            const modal = document.getElementById('telegramModal');
-            modal.style.display = 'none';
-            
-            // Save confirmation in localStorage
-            localStorage.setItem('telegramSubscriptionConfirmed', 'true');
-            
-            // Show success message
-            alert('شكراً لتأكيد اشتراكك! سيتم إعلامك بآخر التحديثات.');
-        }
-
-        // Show modal when page loads
-        window.onload = function() {
-            setTimeout(showTelegramModal, 3000); // Show after 3 seconds
-        };
-
-        // Navigation function (example)
-        function navigateToPage(pageId) {
-            // Your navigation logic here
-            console.log('Navigating to:', pageId);
-        }
-
-        // Other existing functions from app.js
-        // ...
-    </script>
     <script src="app.js"></script>
 </body>
 </html>
